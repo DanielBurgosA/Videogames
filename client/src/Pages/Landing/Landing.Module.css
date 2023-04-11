@@ -1,0 +1,8 @@
+.hola{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: "https://colombia.unir.net/wp-content/uploads/sites/4/2015/04/videojuegos_1920x1080.jpg";
+    width: 100%;
+    height: 100%
+}

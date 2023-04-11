@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: row;
+    background-color: #fffffff7;
+    background-position: center;
+    background-size: cover;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(255, 255, 255);
+    visibility: hidden;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #cbcbcb;
+    border-radius: 5px;
+}
+
+.body {
+    min-height: 100vh;
+    padding-top: 16vh;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+
